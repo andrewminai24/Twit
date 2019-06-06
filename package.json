@@ -1,0 +1,23 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "twit bot",
+  "main": "app.js",
+  "dependencies": {
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewminai24/Twit.git"
+  },
+  "author": "Andrew Minai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewminai24/Twit/issues"
+  },
+  "homepage": "https://github.com/andrewminai24/Twit#readme"
+}
